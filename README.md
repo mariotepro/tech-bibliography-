@@ -35,6 +35,7 @@ Youtube
 * https://www.youtube.com/@NetworkChuck - DevOps - Docker, Kubernetes, servidores, redes
 * https://www.youtube.com/@LowLevelLearning - Ciberseguridad, sistemas
 * https://www.youtube.com/@AntonioSarosi - Programación, Rust
+* https://www.youtube.com/@CodingWithJohn - Programación, Java - Muy buenas explicaciones
 
 Repositorios
 -----
