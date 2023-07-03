@@ -40,6 +40,7 @@ Youtube
 Repositorios
 -----
 * [ns2.elhacker.net](https://ns2.elhacker.net/descargas/) - Todo lo que os podáis imaginar sobre absolutamente todo
+* [Javascript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) - Buenas prácticas en codificación para Javascript
 
 Manuales
 -----
