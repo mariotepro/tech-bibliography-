@@ -56,3 +56,4 @@ Cursos/Escuelas
 
 Non categorized yet:
 -----
+* [97 cosas](https://97cosas.com/programador/) - 97 cosas que cualquier programador debería saber. Muy útil incluso para enseñar a los alumnos de la escuela excentia.
